@@ -1,9 +1,6 @@
 changelog_path = "CHANGELOG.md"
-hooks = [ "echo %version" ]
-post-bump-hooks = [
-    "git push",
-    "git push origin %version"
-]
+pre_bump_hooks = ["echo bumping to %version"]
+post_bump_hooks = ["git push", "git push origin %version"]
 authors = []
 
 [commit_types]
