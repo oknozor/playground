@@ -1,0 +1,5 @@
+changelog_path = "CHANGELOG.md"
+hooks = []
+authors = []
+
+[commit_types]
