@@ -2,6 +2,17 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.2.2 - 2020-10-11
+
+
+### Bug Fixes
+
+1d4cb5 - config - Paul Delafosse
+
+4c4a88 - c - Paul Delafosse
+
+
+- - -
 ## 0.2.0 - 2020-10-11
 
 
