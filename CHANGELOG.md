@@ -2,6 +2,27 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.3.0 - 2020-10-11
+
+
+### Features
+
+4f25ea - f - Paul Delafosse
+
+603a9a - d - Paul Delafosse
+
+
+### Miscellaneous Chores
+
+a39297 - cog.toml - Paul Delafosse
+
+
+### Bug Fixes
+
+7b9544 - e - Paul Delafosse
+
+
+- - -
 ## 0.2.2 - 2020-10-11
 
 
