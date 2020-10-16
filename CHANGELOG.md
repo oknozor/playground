@@ -2,6 +2,15 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.4.0 - 2020-10-16
+
+
+### Features
+
+9b01a5 - stuff - Paul Delafosse
+
+
+- - -
 ## 0.3.0 - 2020-10-11
 
 
