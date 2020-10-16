@@ -1,5 +1,5 @@
 changelog_path = "CHANGELOG.md"
-pre_bump_hooks = ["echo bumping to %version"]
+pre_bump_hooks = ["echo bumping to version=%version"]
 post_bump_hooks = ["git push", "git push origin %version"]
 authors = []
 
